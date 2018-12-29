@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=eGSqb3kJdv4
 
 Gallery:
 
-![alt text](images/GameLogo.png "")
+![alt text](images/GameLogo.png "" | width=100)
 ![alt text](images/MainMenu.png "")
 ![alt text](images/Shop.png "")
 ![alt text](images/TapToStart.png "")
