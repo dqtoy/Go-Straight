@@ -1,4 +1,4 @@
-# Go-Straight-Public
+# Go-Straight
 
 - 2nd Game I have ever made
 
