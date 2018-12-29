@@ -8,14 +8,14 @@ Try to move through the wood logs in the river by navigating your boat. However 
 - All assets are drawn by me using piskel app.
 - This is my first experiment with making a proper game for publishing to the store.
 
-# Links
+## Links
 Play Store Link:
 https://play.google.com/store/apps/details?id=com.AyGames.GoStraight
 
 Video of the game:
 https://www.youtube.com/watch?v=eGSqb3kJdv4
 
-# Gallery
+## Gallery
 <p align="middle">
   <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="100" width="100">
 </p>
