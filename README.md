@@ -14,11 +14,11 @@ https://www.youtube.com/watch?v=eGSqb3kJdv4
 
 Gallery:
 
-![alt text](GameLogo.png "")
-![alt text](MainMenu.png "")
-![alt text](Shop.png "")
-![alt text](TapToStart.png "")
-![alt text](InGame.png "")
-![alt text](InGame1.png "")
-![alt text](PauseScreen.png "")
-![alt text](EndGame.png "")
+![alt text](images/GameLogo.png "")
+![alt text](images/MainMenu.png "")
+![alt text](images/Shop.png "")
+![alt text](images/TapToStart.png "")
+![alt text](images/InGame.png "")
+![alt text](images/InGame1.png "")
+![alt text](images/PauseScreen.png "")
+![alt text](images/EndGame.png "")
