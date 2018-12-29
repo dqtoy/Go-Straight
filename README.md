@@ -15,9 +15,9 @@ https://play.google.com/store/apps/details?id=com.AyGames.GoStraight
 Video of the game:
 https://www.youtube.com/watch?v=eGSqb3kJdv4
 
-Gallery:
+# Gallery:
 
-![](https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png)
+<img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="48" width="48">
 ![alt text](images/MainMenu.png "")
 ![alt text](images/Shop.png "")
 ![alt text](images/TapToStart.png "")
