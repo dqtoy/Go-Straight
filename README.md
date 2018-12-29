@@ -16,7 +16,11 @@ Video of the game:
 https://www.youtube.com/watch?v=eGSqb3kJdv4
 
 # Gallery:
-
+<p float="left" align="middle">
+  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="48" width="48">
+  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/MainMenu.png" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/TapToStart.png" height="555" width="270">
+</p>
 <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="48" width="48">
 <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/MainMenu.png" height="555" width="270">
 <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/TapToStart.png" height="555" width="270">
