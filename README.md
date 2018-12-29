@@ -18,10 +18,9 @@ https://www.youtube.com/watch?v=eGSqb3kJdv4
 # Gallery:
 
 <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="48" width="48">
-![alt text](images/MainMenu.png "")
-![alt text](images/Shop.png "")
-![alt text](images/TapToStart.png "")
-![alt text](images/InGame.png "")
-![alt text](images/InGame1.png "")
-![alt text](images/PauseScreen.png "")
-![alt text](images/EndGame.png "")
+<img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/MainMenu.png" height="185" width="90">
+<img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/TapToStart.png" height="48" width="48">
+<img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/InGame.png" height="48" width="48">
+<img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/InGame1.png" height="48" width="48">
+<img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/PauseScreen.png" height="48" width="48">
+<img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/EndGame.png" height="48" width="48">
