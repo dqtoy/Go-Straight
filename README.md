@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=eGSqb3kJdv4
 # Gallery:
 
 <p align="middle">
-  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="48" width="48">
+  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="100" width="100">
 </p>
 
 <p float="left" align="middle">
