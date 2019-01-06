@@ -2,7 +2,7 @@
 Go Straight, a 2D Hyper Casual Game
 Try to move through the wood logs in the river by navigating your boat. However there is a catch, you can only move diagonally!
 
-###### How to play
+##### How to play
 In Go Straight, the main goal is to score as much as you can. Each time you pass between 2 logs you earn 1 point. If you touch the logs or touch the shore the game ends. 
 - After the game ends, you can watch a short ad to try again from where you left of.
 - You can collect stars to unlock different boats in the shop.
